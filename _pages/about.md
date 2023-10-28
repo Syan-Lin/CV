@@ -22,13 +22,13 @@ Skills
 - **Theory**: Data Structure and Algorithm, Principles of Computer Composition, Computer Networks, Operating Systems
 - **Machine Learning**: Optimization Theory, Probability Theory, Linear Algebra, Higher Mathematics; Understand commonly used models like MLP, RNN, CNN, Transformer, etc; Understand commonly used techniques like Normalization, Optimization, etc
 - **Distributed System**: Understand the concepts and algorithms of distributed system like Availability, Consistency, Fault Tolerance, etc; Understand consensus algorithm like Paxos, Raft, etc; Understand basic distributed system like GFS, MapReduce, BigTable
-- **English**: CET-6 480
+- **English**: CET-6 485
 
 Presentation
 ------
-\[1\] LIN., “HyFish: Hydrological Factor Fusion for Prediction of Fishing Effort Distribution with VMS dataset”. Frontiers in Marine Science (2024) SCI 1 (under review)
+\[1\] LIN. Y, “HyFish: Hydrological Factor Fusion for Prediction of Fishing Effort Distribution with VMS dataset”. Frontiers in Marine Science (2024) SCI 1 (under review)
 
-\[2\] LIN., “HyFormer: Hydrological Factor Fusion Transformer for Vessel Trajectory Prediction with VMS dataset”. IEEE Transactions on Intelligent Transportation Systems (2024) SCI 1 (under review)
+\[2\] LIN. Y, “HyFormer: Hydrological Factor Fusion Transformer for Vessel Trajectory Prediction with VMS dataset”. IEEE Transactions on Intelligent Transportation Systems (2024) SCI 1 (under review)
 
 Teaching Assistant Experience
 ------
@@ -37,54 +37,59 @@ Teaching Assistant Experience
 
 Internship Experience
 ------
-**3D Games Based on COCOS Game Engine**, 2022.05-2022.09, Shenzhen Shangmang Technology Co., Ltd
+**3D Games Based on COCOS Game Engine**, 2022/05-2022/09, Shenzhen Shangmang Technology Co., Ltd
 
-1. Program framework based on Cocos
-2. Using TS for game program development
-3. Using Java to access third-party advertising SDKs
+- Program framework based on Cocos
+- Using TS for game program development
+- Using Java to access third-party advertising SDKs
 
 Research Experience
 ------
-**Vessel Trajectory Prediction**, 2023.07-Present, Research Leader
+**Vessel Trajectory Prediction**, 2023/07-Present, Research Leader
 
-1. Preprocessing of raw data, such as data deduplication, noise removal, static simplification, etc
-2. Visualized trajectory data to analyze the trajectory behavior of vessels in the sea area.
-3. Conducted correlation analysis between hydrological factors and vessel behavior, and analyze the impact of hydrological factors on vessel behavior.
-4. Designed a model that utilizes multi-source data and data fusion to predict the future trajectory of vessels.
-5. Adjusting hyperparameters and trained the model.
+- Preprocessing of raw data, such as data deduplication, noise removal, static simplification, etc
+- Visualized trajectory data to analyze the trajectory behavior of vessels in the sea area.
+- Conducted correlation analysis between hydrological factors and vessel behavior, and analyze the impact of hydrological factors on vessel behavior.
+- Designed a model that utilizes multi-source data and data fusion to predict the future trajectory of vessels.
+- Adjusting hyperparameters and trained the model.
 
-**Fishing Effort Distribution Prediction**, 2022.11-Present, Research Member
+**Fishing Effort Distribution Prediction**, 2022/11-Present, Research Member
 
-1. Preprocessing of raw data, Using statistical methods to map data into grids.
-2. Visualized fishing effort distribution and identified environmental factors that affect it.
-3. Designed a module that extracts the spatial feature of the sea areas.
-4. Trained the model of baseline.
+- Preprocessing of raw data, Using statistical methods to map data into grids.
+- Visualized fishing effort distribution and identified environmental factors that affect it.
+- Designed a module that extracts the spatial feature of the sea areas.
+- Trained the model of baseline.
 
-**VMS Dataset Toolkit**, 2023.05-Present, Research Leader
+**VMS Dataset Toolkit**, 2023/05-Present, Research Leader
 
-1. Integrate visualization based on VMS data to achieve multiple trajectory drawing schemes and heat map drawing.
-2. Integrate multiple data preprocessing schemes, align timestamps, unify program interfaces, and provide multiple data partitioning schemes, such as by voyage, vessel ID, and time.
-3. Implement GIF animation generation, generate multiple frames of images and output GIF animations for easing data analysis.
+- Integrate visualization based on VMS data to achieve multiple trajectory drawing schemes and heat map drawing.
+- Integrate multiple data preprocessing schemes, align timestamps, unify program interfaces, and provide multiple data partitioning schemes, such as by voyage, vessel ID, and time.
+- Implement GIF animation generation, generate multiple frames of images and output GIF animations for easing data analysis.
 
 Programs Experience
 ------
-**[LLM based chatbot application](https://github.com/Syan-Lin/CyberWaifu)**, 867 stars
+**[LLM based chatbot application](https://github.com/Syan-Lin/CyberWaifu)**, 2023/04-2023/06, 867 stars
 
-1. Based on LangChain, go-cqhttp and vits
-2. Developed the thought chain of ChatGPT and Claude, enable LLM to execute some real actions like save file, send pictures to user, etc
-3. Integrated google search in LLM, enable LLM to search
-4. Linked LLM to chatbot, enable LLM to send QQ message to user
-5. Integrated Vits in LLM, generates voice from the text generated by LLM, multiple languages and voices are supported
+- Based on LangChain, go-cqhttp and vits
+- Developed the thought chain of ChatGPT and Claude, enable LLM to execute some real actions like save file, send pictures to user, etc
+- Integrated google search in LLM, enable LLM to search
+- Linked LLM to chatbot, enable LLM to send QQ message to user
+- Integrated Vits in LLM, generates voice from the text generated by LLM, multiple languages and voices are supported
 
-**[Linux network library: esynet](https://github.com/Syan-Lin/esynet)**
+**[Linux network library: esynet](https://github.com/Syan-Lin/esynet)**, 2022/12-2023/03
 
 A high-performance lightweight C++ linux network library
 
-1. Based on Linux network API
-2. Use poll/epoll to build the underlying interfaces, which can handle concurrent connections
-3. Use Reactor model to build the system, and use thread pool to handle more concurrent tasks
-4. Use asynchronous logging for logging
+- Based on Linux network API
+- Use poll/epoll to build the underlying interfaces, which can handle concurrent connections
+- Use Reactor model to build the system, and use thread pool to handle more concurrent tasks
+- Use asynchronous logging for logging
 
-**[Json Parser: tiny-json](https://github.com/Syan-Lin/Tiny-JSON)**
+**[Json Parser: tiny-json](https://github.com/Syan-Lin/Tiny-JSON)**, 2022/08-2022/10
 
 A lightweight C++ Json parser library
+
+- Lightweight, head file only needed, no third party dependency
+- Simplest possible interface and usage
+- Comprehensive testing
+- High-performance, with fast parsing speed
