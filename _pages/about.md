@@ -83,4 +83,8 @@ A high-performance lightweight C++ linux network library
 1. Based on Linux network API
 2. Use poll/epoll to build the underlying interfaces, which can handle concurrent connections
 3. Use Reactor model to build the system, and use thread pool to handle more concurrent tasks
-4.
+4. Use asynchronous logging for logging
+
+**[Json Parser: tiny-json](https://github.com/Syan-Lin/Tiny-JSON)**
+
+A lightweight C++ Json parser library
