@@ -8,33 +8,34 @@ redirect_from:
   - /about.html
 ---
 
-I am currently in my second year as a Master's student in Computer Science and Technology, with research interests in machine learning, data mining, and distributed systems. I am looking forward to obtaining internship opportunities or pursuing a doctoral degree in related research fields.
+I am currently in my second year as a Master's student in Computer Science and Technology, with research interests in **machine learning, data mining, and distributed systems**. I am looking forward to obtaining **internship** opportunities or pursuing a **doctoral degree** in related research fields.
 
 Education
 ------
-- M.S in Computer Science and Technology, 2022-Present, Ocean University of China
-- B.S in Computer Science and Technology, 2018-2022, Ocean University of China
+- M.S in Computer Science and Technology, 2022-Present, **Ocean University of China**
+- B.S in Computer Science and Technology, 2018-2022, **Ocean University of China**
 
 Skills
 ------
-**Language**: Modern C/C++, Python, Java, Go
+- **Language**: Modern C/C++, Python, Java, Go
+- **Development**: Network Programming, Parallel Programming, Design Pattern; Familiar with Linux, Git
+- **Theory**: Data Structure and Algorithm, Principles of Computer Composition, Computer Networks, Operating Systems
+- **Machine Learning**: Optimization Theory, Probability Theory, Linear Algebra, Higher Mathematics; Understand commonly used models like MLP, RNN, CNN, Transformer, etc; Understand commonly used techniques like Normalization, Optimization, etc
+- **Distributed System**: Understand the concepts and algorithms of distributed system like Availability, Consistency, Fault Tolerance, etc; Understand consensus algorithm like Paxos, Raft, etc; Understand basic distributed system like GFS, MapReduce, BigTable
+- **English**: CET-6 480
 
-> Familiar with modern C/C++, such as C++11 syntax features and STL, familiar with C++14/17/20, familiar with Python, Java, Go development.
+Presentation
+------
+\[1\] LIN., “HyFish: Hydrological Factor Fusion for Prediction of Fishing Effort Distribution with VMS dataset”. Frontiers in Marine Science (2024) SCI 1 (under review)
 
-**Development**: Familiar with Linux development, network programming, multithreaded programming, proficient in using Git for project management. Familiar with data preprocessing and analysis.
-
-**Theory**: Deep understanding of data structure, computer composition, computer networks, and operating systems; Understand design patterns and underlying principles of C++.
-
-**Machine Learning**: Understand the basic principles of deep learning, be familiar with commonly used models such as MLP, RNN, CNN, Transformer, etc; Understand optimization theory, probability theory, linear algebra, advanced mathematics, and be able to understand and analyze the mathematical principles of models.
-
-**Distributed System**: Understand the basic concepts and algorithms of distributed computing, such as GFS, MapReduce, BigTable. Understand consensus algorithms, such as Paxos, Raft, etc. Understand mutual exclusion problems and related algorithms, such as Peterson algorithm and bakery algorithm.
+\[2\] LIN., “HyFormer: Hydrological Factor Fusion Transformer for Vessel Trajectory Prediction with VMS dataset”. IEEE Transactions on Intelligent Transportation Systems (2024) SCI 1 (under review)
 
 Teaching Assistant Experience
 ------
 - Fall 2023: Computer Networks
 - Fall 2022: Computer Networks
 
-Internship experience
+Internship Experience
 ------
 **3D Games Based on COCOS Game Engine**, 2022.05-2022.09, Shenzhen Shangmang Technology Co., Ltd
 
@@ -42,7 +43,7 @@ Internship experience
 2. Using TS for game program development
 3. Using Java to access third-party advertising SDKs
 
-Research experience
+Research Experience
 ------
 **Vessel Trajectory Prediction**, 2023.07-Present, Research Leader
 
@@ -50,12 +51,14 @@ Research experience
 2. Visualized trajectory data to analyze the trajectory behavior of vessels in the sea area.
 3. Conducted correlation analysis between hydrological factors and vessel behavior, and analyze the impact of hydrological factors on vessel behavior.
 4. Designed a model that utilizes multi-source data and data fusion to predict the future trajectory of vessels.
+5. Adjusting hyperparameters and trained the model.
 
 **Fishing Effort Distribution Prediction**, 2022.11-Present, Research Member
 
 1. Preprocessing of raw data, Using statistical methods to map data into grids.
 2. Visualized fishing effort distribution and identified environmental factors that affect it.
 3. Designed a module that extracts the spatial feature of the sea areas.
+4. Trained the model of baseline.
 
 **VMS Dataset Toolkit**, 2023.05-Present, Research Leader
 
@@ -65,4 +68,19 @@ Research experience
 
 Programs Experience
 ------
-asdasdf
+**[LLM based chatbot application](https://github.com/Syan-Lin/CyberWaifu)**, 867 stars
+
+1. Based on LangChain, go-cqhttp and vits
+2. Developed the thought chain of ChatGPT and Claude, enable LLM to execute some real actions like save file, send pictures to user, etc
+3. Integrated google search in LLM, enable LLM to search
+4. Linked LLM to chatbot, enable LLM to send QQ message to user
+5. Integrated Vits in LLM, generates voice from the text generated by LLM, multiple languages and voices are supported
+
+**[Linux network library: esynet](https://github.com/Syan-Lin/esynet)**
+
+A high-performance lightweight C++ linux network library
+
+1. Based on Linux network API
+2. Use poll/epoll to build the underlying interfaces, which can handle concurrent connections
+3. Use Reactor model to build the system, and use thread pool to handle more concurrent tasks
+4.
