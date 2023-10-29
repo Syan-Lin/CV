@@ -93,3 +93,18 @@ A lightweight C++ Json parser library
 - Simplest possible interface and usage
 - Comprehensive testing
 - High-performance, with fast parsing speed
+
+**2D Game System**, 2021/10-2021/12
+
+A Java game system with no third-party dependancy
+
+- Implemented with scratch
+- Implemented render module, collision detection module, the skeleton of system
+- A game demo based on this system
+
+**Ocean University of China-Student Research Development Program**, 2019/09-2021/06
+
+A maritime craft with autonomous cruise control function
+
+- Collected marine data like sea surface salinity and temperature
+- Implemented the program of cruise control function based on GPS with C language
