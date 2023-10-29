@@ -10,6 +10,8 @@ redirect_from:
 
 I am currently in my second year as a Master's student in Computer Science and Technology, with research interests in **machine learning, data mining, and distributed systems**. I am looking forward to obtaining **internship** opportunities or pursuing a **doctoral degree** in related research fields.
 
+I have a strong passion for programming and a great interest and drive in research. If you are interested, please feel free to send me an email.
+
 Education
 ------
 - M.S in Computer Science and Technology, 2022-Present, **Ocean University of China**
