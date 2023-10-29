@@ -50,23 +50,23 @@ Research Experience
 **Vessel Trajectory Prediction**, 2023/07-Present, Research Leader
 
 - Preprocessing of raw data, such as data deduplication, noise removal, static simplification, etc
-- Visualized trajectory data to analyze the trajectory behavior of vessels in the sea area.
-- Conducted correlation analysis between hydrological factors and vessel behavior, and analyze the impact of hydrological factors on vessel behavior.
-- Designed a model that utilizes multi-source data and data fusion to predict the future trajectory of vessels.
-- Adjusting hyperparameters and trained the model.
+- Visualized trajectory data to analyze the trajectory behavior of vessels in the sea area
+- Conducted correlation analysis between hydrological factors and vessel behavior, and analyze the impact of hydrological factors on vessel behavior
+- Designed a model that utilizes multi-source data and data fusion to predict the future trajectory of vessels
+- Adjusting hyperparameters and trained the model
 
 **Fishing Effort Distribution Prediction**, 2022/11-Present, Research Member
 
-- Preprocessing of raw data, Using statistical methods to map data into grids.
-- Visualized fishing effort distribution and identified environmental factors that affect it.
-- Designed a module that extracts the spatial feature of the sea areas.
-- Trained the model of baseline.
+- Preprocessing of raw data, Using statistical methods to map data into grids
+- Visualized fishing effort distribution and identified environmental factors that affect it
+- Designed a module that extracts the spatial feature of the sea areas
+- Trained the model of baseline
 
 **VMS Dataset Toolkit**, 2023/05-Present, Research Leader
 
-- Integrate visualization based on VMS data to achieve multiple trajectory drawing schemes and heat map drawing.
-- Integrate multiple data preprocessing schemes, align timestamps, unify program interfaces, and provide multiple data partitioning schemes, such as by voyage, vessel ID, and time.
-- Implement GIF animation generation, generate multiple frames of images and output GIF animations for easing data analysis.
+- Integrate visualization based on VMS data to achieve multiple trajectory drawing schemes and heat map drawing
+- Integrate multiple data preprocessing schemes, align timestamps, unify program interfaces, and provide multiple data partitioning schemes, such as by voyage, vessel ID, and time
+- Implement GIF animation generation, generate multiple frames of images and output GIF animations for easing data analysis
 
 Programs Experience
 ------
@@ -101,7 +101,7 @@ A lightweight C++ Json parser library
 A Java game system with no third-party dependancy
 
 - Implemented with scratch
-- Implemented render module, collision detection module, the skeleton of system
+- Implemented render module, collision detection module, the skeleton of the system
 - A game demo based on this system
 
 **Ocean University of China-Student Research Development Program**, 2019/09-2021/06
