@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently in my second year as a Master's student in Computer Science and Technology, with research interests in **machine learning**, **data mining**, and **distributed systems**. I am actively seeking **internship** opportunities and considering pursuing a **doctoral degree** in related research fields.
+I am currently in my second year as a Master's student in Computer Science and Technology, with research interests in **machine learning**, **data mining**, and **distributed systems**. I have developed an LLM-based system that has gained close to **1,000 stars** on GitHub.
 
 I possess a strong passion for programming and have built a solid foundation in various programming languages. I possess a **research-oriented mindset**, a **curiosity** about underlying principles, and a **self-driven nature**. Additionally, I have maintained a habit of writing blogs for many years.
 
