@@ -17,25 +17,6 @@ Education
 - M.S in Computer Science and Technology, 2022-Present, **Ocean University of China**
 - B.S in Computer Science and Technology, 2018-2022, **Ocean University of China**
 
-Skills
-------
-- **Language**: Modern C/C++, Python, Java, Go
-- **Development**: Network Programming, Parallel Programming, Design Pattern; Familiar with Linux, Git
-- **Theory**: Data Structure and Algorithm, Principles of Computer Composition, Computer Networks, Operating Systems
-- **Machine Learning**: Optimization Theory, Probability Theory, Linear Algebra, Higher Mathematics; Familiar with commonly used models such as MLP, RNN, CNN, Transformer, etc.; Familiar with commonly used techniques such as Normalization, Optimization, etc.
-- **Distributed System**: Familiar with concepts and algorithms of distributed systems such as Availability, Consistency, Fault Tolerance, etc.; Familiar with consensus algorithms such as Paxos, Raft, etc.; Familiar with basic distributed systems such as GFS, MapReduce, BigTable
-
-Presentation
-------
-\[1\] LIN. Y, “HyFish: Hydrological Factor Fusion for Prediction of Fishing Effort Distribution with VMS dataset”. Frontiers in Marine Science (2024) SCI 1 (Under review)
-
-\[2\] LIN. Y, “HyFormer: Hydrological Factor Fusion Transformer for Vessel Trajectory Prediction with VMS dataset”. IEEE Transactions on Intelligent Transportation Systems (2024) SCI 1 (Ongoing)
-
-Teaching Assistant Experience
-------
-- Fall 2023: Computer Networks
-- Fall 2022: Computer Networks
-
 Internship Experience
 ------
 **3D Games Based on COCOS Game Engine**, 2022/05-2022/09, Shenzhen Shangmang Technology Co., Ltd
@@ -44,7 +25,7 @@ Internship Experience
 - Utilized TypeScript for game program development
 - Utilized Java to access third-party advertising SDKs
 
-Research Experience
+Program Experience
 ------
 **Vessel Trajectory Prediction**, 2023/07-Present, Research Leader
 
@@ -67,8 +48,6 @@ Research Experience
 - Integrated multiple data preprocessing schemes, including timestamp alignment and program interface unification
 - Implemented GIF animation generation for easing data analysis
 
-Programs Experience
-------
 **[LLM based chatbot application](https://github.com/Syan-Lin/CyberWaifu)**, 2023/04-2023/06, 867 stars
 
 - Developed a LLM system based on LangChain, go-cqhttp and vits
@@ -86,6 +65,27 @@ A high-performance lightweight C++ linux network library
 - Implemented the Reactor model to build the system and used a thread pool to handle concurrent tasks
 - Utilized asynchronous logging for logging
 
+Skills
+------
+- **Language**: Modern C/C++, Python, Java, Go
+- **Development**: Network Programming, Parallel Programming, Design Pattern; Familiar with Linux, Git
+- **Theory**: Data Structure and Algorithm, Principles of Computer Composition, Computer Networks, Operating Systems
+- **Machine Learning**: Optimization Theory, Probability Theory, Linear Algebra, Higher Mathematics; Familiar with commonly used models such as MLP, RNN, CNN, Transformer, etc.; Familiar with commonly used techniques such as Normalization, Optimization, etc.
+- **Distributed System**: Familiar with concepts and algorithms of distributed systems such as Availability, Consistency, Fault Tolerance, etc.; Familiar with consensus algorithms such as Paxos, Raft, etc.; Familiar with basic distributed systems such as GFS, MapReduce, BigTable
+
+Presentation
+------
+\[1\] LIN. Y, “HyFish: Hydrological Factor Fusion for Prediction of Fishing Effort Distribution with VMS dataset”. Frontiers in Marine Science (2024) SCI 1 (Under review)
+
+\[2\] LIN. Y, “HyFormer: Hydrological Factor Fusion Transformer for Vessel Trajectory Prediction with VMS dataset”. IEEE Transactions on Intelligent Transportation Systems (2024) SCI 1 (Ongoing)
+
+Teaching Assistant Experience
+------
+- Fall 2023: Computer Networks
+- Fall 2022: Computer Networks
+
+Programs Experience
+------
 **[Json Parser: tiny-json](https://github.com/Syan-Lin/Tiny-JSON)**, 2022/08-2022/10
 
 A lightweight C++ Json parser library
