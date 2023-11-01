@@ -12,8 +12,6 @@ I am currently in my second year as a Master's student in Computer Science and T
 
 I possess a strong passion for programming and have built a solid foundation in various programming languages. I possess a **research-oriented mindset**, a **curiosity** about underlying principles, and a **self-driven nature**. Additionally, I have maintained a habit of writing blogs for many years.
 
-If you are interested, please feel free to send me an email(lin.siyuan@foxmail.com).
-
 Education
 ------
 - M.S in Computer Science and Technology, 2022-Present, **Ocean University of China**
