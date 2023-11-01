@@ -29,9 +29,9 @@ Skills
 
 Presentation
 ------
-\[1\] LIN. Y, “HyFish: Hydrological Factor Fusion for Prediction of Fishing Effort Distribution with VMS dataset”. Frontiers in Marine Science (2024) SCI 1 (under review)
+\[1\] LIN. Y, “HyFish: Hydrological Factor Fusion for Prediction of Fishing Effort Distribution with VMS dataset”. Frontiers in Marine Science (2024) SCI 1 (Under review)
 
-\[2\] LIN. Y, “HyFormer: Hydrological Factor Fusion Transformer for Vessel Trajectory Prediction with VMS dataset”. IEEE Transactions on Intelligent Transportation Systems (2024) SCI 1 (under review)
+\[2\] LIN. Y, “HyFormer: Hydrological Factor Fusion Transformer for Vessel Trajectory Prediction with VMS dataset”. IEEE Transactions on Intelligent Transportation Systems (2024) SCI 1 (Ongoing)
 
 Teaching Assistant Experience
 ------
