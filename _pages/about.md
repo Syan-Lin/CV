@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently in my second year as a Master's student in Computer Science and Technology, with research interests in **machine learning, data mining, and distributed systems**. I am looking forward to obtaining **internship** opportunities or pursuing a **doctoral degree** in related research fields.
+I am currently in my second year as a Master's student in Computer Science and Technology, specializing in **machine learning**, **data mining**, and **distributed systems**. I am actively seeking **internship** opportunities and considering pursuing a **doctoral degree** in related research fields.
 
-I have a strong passion for programming and a great interest and drive in research. If you are interested, please feel free to send me an email.
+I possess a strong passion for programming and have built a solid foundation in various programming languages. I possess a **research-oriented mindset**, a **curiosity** about underlying principles, and a **self-driven nature**. Additionally, I have maintained a habit of writing blogs for many years.
 
 Education
 ------
@@ -22,9 +22,8 @@ Skills
 - **Language**: Modern C/C++, Python, Java, Go
 - **Development**: Network Programming, Parallel Programming, Design Pattern; Familiar with Linux, Git
 - **Theory**: Data Structure and Algorithm, Principles of Computer Composition, Computer Networks, Operating Systems
-- **Machine Learning**: Optimization Theory, Probability Theory, Linear Algebra, Higher Mathematics; Understand commonly used models like MLP, RNN, CNN, Transformer, etc; Understand commonly used techniques like Normalization, Optimization, etc
-- **Distributed System**: Understand the concepts and algorithms of distributed system like Availability, Consistency, Fault Tolerance, etc; Understand consensus algorithm like Paxos, Raft, etc; Understand basic distributed system like GFS, MapReduce, BigTable
-- **English**: CET-6 485
+- **Machine Learning**: Optimization Theory, Probability Theory, Linear Algebra, Higher Mathematics; Familiar with commonly used models such as MLP, RNN, CNN, Transformer, etc.; Familiar with commonly used techniques such as Normalization, Optimization, etc.
+- **Distributed System**: Familiar with concepts and algorithms of distributed systems such as Availability, Consistency, Fault Tolerance, etc.; Familiar with consensus algorithms such as Paxos, Raft, etc.; Familiar with basic distributed systems such as GFS, MapReduce, BigTable
 
 Presentation
 ------
@@ -41,58 +40,58 @@ Internship Experience
 ------
 **3D Games Based on COCOS Game Engine**, 2022/05-2022/09, Shenzhen Shangmang Technology Co., Ltd
 
-- Program framework based on Cocos
-- Using TS for game program development
-- Using Java to access third-party advertising SDKs
+- Developed a program framework based on Cocos
+- Utilized TypeScript for game program development
+- Utilized Java to access third-party advertising SDKs
 
 Research Experience
 ------
 **Vessel Trajectory Prediction**, 2023/07-Present, Research Leader
 
-- Preprocessing of raw data, such as data deduplication, noise removal, static simplification, etc
-- Visualized trajectory data to analyze the trajectory behavior of vessels in the sea area
-- Conducted correlation analysis between hydrological factors and vessel behavior, and analyze the impact of hydrological factors on vessel behavior
-- Designed a model that utilizes multi-source data and data fusion to predict the future trajectory of vessels
-- Adjusting hyperparameters and trained the model
+- Preprocessed raw data, including data deduplication, noise removal, and static simplification
+- Visualized trajectory data to analyze vessel behavior in the sea area
+- Conducted correlation analysis between hydrological factors and vessel behavior to understand the impact of hydrological factors
+- Designed a model that utilizes multi-source data and data fusion to predict future vessel trajectories
+- Tuned hyperparameters and trained the model
 
 **Fishing Effort Distribution Prediction**, 2022/11-Present, Research Member
 
-- Preprocessing of raw data, Using statistical methods to map data into grids
-- Visualized fishing effort distribution and identified environmental factors that affect it
-- Designed a module that extracts the spatial feature of the sea areas
-- Trained the model of baseline
+- Preprocessed raw data and used statistical methods to map data into grids
+- Visualized fishing effort distribution and identified environmental factors affecting it
+- Designed a module to extract spatial features of sea areas
+- Trained the baseline models
 
 **VMS Dataset Toolkit**, 2023/05-Present, Research Leader
 
-- Integrate visualization based on VMS data to achieve multiple trajectory drawing schemes and heat map drawing
-- Integrate multiple data preprocessing schemes, align timestamps, unify program interfaces, and provide multiple data partitioning schemes, such as by voyage, vessel ID, and time
-- Implement GIF animation generation, generate multiple frames of images and output GIF animations for easing data analysis
+- Integrated visualization based on VMS data to provide multiple trajectory drawing schemes and heat map drawing
+- Integrated multiple data preprocessing schemes, including timestamp alignment and program interface unification
+- Implemented GIF animation generation for easing data analysis
 
 Programs Experience
 ------
 **[LLM based chatbot application](https://github.com/Syan-Lin/CyberWaifu)**, 2023/04-2023/06, 867 stars
 
-- Based on LangChain, go-cqhttp and vits
-- Developed the thought chain of ChatGPT and Claude, enable LLM to execute some real actions like save file, send pictures to user, etc
-- Integrated google search in LLM, enable LLM to search
-- Linked LLM to chatbot, enable LLM to send QQ message to user
-- Integrated Vits in LLM, generates voice from the text generated by LLM, multiple languages and voices are supported
+- Developed a LLM system based on LangChain, go-cqhttp and vits
+- Developed the thought chain of ChatGPT and Claude, enabling LLM to execute real actions such as saving files and sending pictures to users
+- Integrated Google search in LLM, enabling LLM to perform searches
+- Linked LLM to a chatbot, allowing LLM to send QQ messages to users
+- Integrated Vits in LLM, generating voice from the text generated by LLM, supporting multiple languages and voices
 
 **[Linux network library: esynet](https://github.com/Syan-Lin/esynet)**, 2022/12-2023/03
 
 A high-performance lightweight C++ linux network library
 
 - Based on Linux network API
-- Use poll/epoll to build the underlying interfaces, which can handle concurrent connections
-- Use Reactor model to build the system, and use thread pool to handle more concurrent tasks
-- Use asynchronous logging for logging
+- Utilized poll/epoll to build underlying interfaces capable of handling concurrent connections
+- Implemented the Reactor model to build the system and used a thread pool to handle concurrent tasks
+- Utilized asynchronous logging for logging
 
 **[Json Parser: tiny-json](https://github.com/Syan-Lin/Tiny-JSON)**, 2022/08-2022/10
 
 A lightweight C++ Json parser library
 
-- Lightweight, head file only needed, no third party dependency
-- Simplest possible interface and usage
+- Lightweight, only requires a header file, no third-party dependencies
+- Simple interface and usage
 - Comprehensive testing
 - High-performance, with fast parsing speed
 
@@ -100,13 +99,13 @@ A lightweight C++ Json parser library
 
 A Java game system with no third-party dependancy
 
-- Implemented with scratch
+- Implemented from a scratch
 - Implemented render module, collision detection module, the skeleton of the system
-- A game demo based on this system
+- Created a game demo using this system
 
 **Ocean University of China-Student Research Development Program**, 2019/09-2021/06
 
-A maritime craft with autonomous cruise control function
+Developed a maritime craft with autonomous cruise control function
 
-- Collected marine data like sea surface salinity and temperature
-- Implemented the program of cruise control function based on GPS with C language
+- Collected marine data such as sea surface salinity and temperature
+- Implemented the cruise control function program based on GPS using the C language
