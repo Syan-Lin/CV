@@ -21,15 +21,15 @@ Education
 Project Experience
 ------
 
-**Custom Alerting Platform**, Meituan, 2024/05-2024/10
+**Custom Alerting Platform**, Software Engineer Intern, Meituan, 2024/05-2024/10
 
 Built a configurable alerting system that delivers rich, interactive notification cards directly in the company’s office app—replacing redirects to the legacy alert platform. Led end-to-end development including rule engine design, card templating, and integration with existing SQL-based analysis workflows.
 
-**[LLM-based chat system](https://github.com/Syan-Lin/CyberWaifu), 1,000+ stars**, 2023/04-2023/06
+**[CyberWaifu: LLM-based chat system](https://github.com/Syan-Lin/CyberWaifu), 1,000+ stars**, 2023/04-2023/06
 
 Develop a RAG system before the concept of RAG turned out, and integrated Vits, search and chat agents(it's not called agents at that time).
 
-**[Terminal-Integrated LLM Assistant](https://github.com/Syan-Lin/baize)**, 2024/06-2024/08
+**[Baize: Terminal-Integrated LLM Assistant](https://github.com/Syan-Lin/baize)**, 2024/06-2024/08
 
 Built a lightweight CLI tool for using LLMs directly in the terminal—enabling command lookup, file-based QA, and log analysis via simple, scriptable commands. Focused on minimalism and usability, avoiding complex agent workflows to keep the experience native to terminal environments.
 
@@ -52,5 +52,5 @@ Publication
 
 Teaching Assistant Experience
 ------
-- Fall 2023: Computer Networks
-- Fall 2022: Computer Networks
+- Fall 2023: Computer Networks, Ocean University of China
+- Fall 2022: Computer Networks, Ocean University of China
