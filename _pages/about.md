@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently in **THU** as a PhD candidate in Earth System Science, with research interests in **high-performance computing (HPC)**.
 
-I possess a strong passion for programming and have built a solid foundation in various programming languages. I have developed an LLM-based chat system that has gained close to **1,000 stars** on GitHub. Additionally, I have maintained a habit of writing blogs for many years.
+I possess a strong passion for programming and have built a solid foundation in various programming languages. I have developed an LLM-based chat system that has gained **1,000+ stars** on GitHub. Additionally, I have maintained a habit of writing blogs for many years.
 
 Education
 ------
